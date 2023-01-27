@@ -1,5 +1,6 @@
 # OCP_DLP
-OpenShift distance Learning
+
+OpenShift Distance Learning
 
 ## Day 1
 
