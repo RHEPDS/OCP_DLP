@@ -42,11 +42,11 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 ## Day 4 (Tuesday 30.05.2023)
 
-16:00 - 16:05		Welcome
+17:00 - 17:05		Welcome
 
-16:05 - 17:30		OpenShift Security (including 5 min break)
+18:05 - 18:30		OpenShift Security (including 5 min break)
 
-17:30 -18:00		OpenShift Advanced Cluster Security
+18:30 -29:00		OpenShift Advanced Cluster Security
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
 
