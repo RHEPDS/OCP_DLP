@@ -1,8 +1,10 @@
 # OCP_DLP
 
+Times in CEST (GMT+2)
+
 OpenShift Distance Learning
 
-## Day 1
+## Day 1 (8.05.2023)
 
 16:00 - 16:15		Welcome
 
@@ -12,19 +14,19 @@ OpenShift Distance Learning
 
 Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC
 
-## Day 2
+## Day 2 (Tuesday 16.05.2023)
 
-16:00 - 16:05		Welcome
+18:00 - 18:05		Welcome
 
-16:05 - 17:00		OCP Architecture Part 3 (Storage and Observability)
+18:05 - 19:00		OCP Architecture Part 3 (Storage and Observability)
 
-17:05 - 18:00		OCP Installation
+19:05 - 20:00		OCP Installation
 
 Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC
             
             puls assessment
 
-## Day 3
+## Day 3 (22.05.2023)
 
 16:00 - 16:05		Welcome
 
@@ -38,7 +40,7 @@ Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
 
-## Day 4
+## Day 4 (Tuesday 30.05.2023)
 
 16:00 - 16:05		Welcome
 
@@ -48,7 +50,7 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
 
-## Day5
+## Day5 (Monday 05.06.2023)
 
 16:00 - 16:05		Welcome
 
