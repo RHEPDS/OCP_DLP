@@ -10,7 +10,11 @@ OpenShift Distance Learning
 
 16:15 - 17:00		OCP Architecture Part 1 (Container technologies)
 
+Recording: https://drive.google.com/drive/u/1/folders/1KQkb7mt6d1reaJqXXogRlAW-7z4bx9gW
+
 17:05 - 18:00		OCP Architecture Part 2 (Infra and Networking)
+
+Recording: https://drive.google.com/drive/u/1/folders/1KQkb7mt6d1reaJqXXogRlAW-7z4bx9gW
 
 Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC
 
