@@ -42,8 +42,7 @@ Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 17:30 - 18:00		Device Edge and HyperShift
 
-Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
-
+Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 ## Day 4 (Tuesday 30.05.2023)
 
 17:00 - 17:05		Welcome
@@ -52,7 +51,7 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 18:30 -29:00		OpenShift Advanced Cluster Security
 
-Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
+Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
 ## Day5 (Monday 05.06.2023)
 
@@ -62,6 +61,6 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 17:05 - 18:00		Advanced Cluster Management Overview 
 
-Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314151&utm_source=LOC
+Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
             plus assessment
