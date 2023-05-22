@@ -49,7 +49,7 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=461
 
 18:05 - 18:30		OpenShift Security (including 5 min break)
 
-18:30 -29:00		OpenShift Advanced Cluster Security
+18:30 -19:00		OpenShift Advanced Cluster Security
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
