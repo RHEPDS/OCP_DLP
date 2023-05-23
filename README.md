@@ -36,11 +36,19 @@ Homework		DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=453
 
 16:05 - 16:30		Day 2 Operations
 
+Recording: https://drive.google.com/file/d/1qFjPzQGIrw5GgWTmkisrzEXez1fauiGR/view?usp=sharing
+
 16:30 - 17:00		OpenShift Virtualisation
+
+Recording: https://drive.google.com/file/d/1nUsjc4-yifoqEVzjUWkaNA3ObyyJxhfv/view?usp=sharing
 
 17:05 - 17:30		Backup and DR
 
+Recording: https://drive.google.com/file/d/1qFjPzQGIrw5GgWTmkisrzEXez1fauiGR/view?usp=sharing
+
 17:30 - 18:00		Device Edge and HyperShift
+
+Recording:  https://drive.google.com/file/d/1nUsjc4-yifoqEVzjUWkaNA3ObyyJxhfv/view?usp=sharing
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 ## Day 4 (Tuesday 30.05.2023)
