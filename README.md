@@ -2,8 +2,6 @@
 
 Times in CEST (GMT+2)
 
-OpenShift Distance Learning
-
 ## Day 1 (8.05.2023)
 
 16:00 - 16:15		Welcome
