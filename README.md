@@ -1,4 +1,4 @@
-# OCP_DLP
+# Open Shift Distance Learning 2023
 
 Times in CEST (GMT+2)
 
