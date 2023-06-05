@@ -51,15 +51,16 @@ Recording: https://drive.google.com/file/d/1qFjPzQGIrw5GgWTmkisrzEXez1fauiGR/vie
 Recording:  https://drive.google.com/file/d/1nUsjc4-yifoqEVzjUWkaNA3ObyyJxhfv/view?usp=sharing
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
-## Day 4 (Tuesday 06.06.2023)
 
-17:00 - 17:05		Welcome
+            Day 4 (Tuesday 06.06.2023)
 
-18:05 - 18:30		OpenShift Security (including 5 min break)
+            16:00 - 16:05		Welcome
 
-18:30 -19:00		OpenShift Advanced Cluster Security
+            16:05 - 17:30		OpenShift Security (including 5 min break)
 
-Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
+            17:30 -18:00		OpenShift Advanced Cluster Security
+
+            Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
 ## Day5 (Monday 05.06.2023)
 
