@@ -51,7 +51,7 @@ Recording: https://drive.google.com/file/d/1qFjPzQGIrw5GgWTmkisrzEXez1fauiGR/vie
 Recording:  https://drive.google.com/file/d/1nUsjc4-yifoqEVzjUWkaNA3ObyyJxhfv/view?usp=sharing
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
-## Day 4 (Tuesday 30.05.2023)
+## Day 4 (Tuesday 06.06.2023)
 
 17:00 - 17:05		Welcome
 
