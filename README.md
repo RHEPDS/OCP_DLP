@@ -1,5 +1,5 @@
 # Open Shift Distance Learning 2023
-
+link for today https://meet.google.com/dvg-fekn-qrc
 Times in CEST (GMT+2)
 
 ## Day 1 (8.05.2023)
