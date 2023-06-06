@@ -70,7 +70,11 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=461
 
 16:05 - 17:00		Bringing Apps to OpenShift
 
+Recording: https://drive.google.com/file/d/1UgP5v6CZro_LpRgfAHFL6D0fgIcyydrx/view
+
 17:05 - 18:00		Advanced Cluster Management Overview 
+
+Recording: https://drive.google.com/file/d/1EqZ-AO2lCUvDjEXvYAC9m8Juhres-Z28/view
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
