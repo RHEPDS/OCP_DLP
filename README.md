@@ -11,7 +11,7 @@ Times in CEST (GMT+2)
 
 17:05 - 18:00		OCP Architecture Part 2 (Infra and Networking)
 
-Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=45314150&utm_source=LOC plus Assement
+Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105986&utm_source=LOC plus Assement
 
 ## Day 2 (Monday 25.09.2023)  - >>> ATTENTION Was 11.09.2023 <<<
 
