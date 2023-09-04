@@ -35,7 +35,7 @@ Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=4531
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
-## Day 4 (Tuesday 02.10.2023)
+## Day 4 (Monday 02.10.2023)
 
 16:00 - 16:05		Welcome
 
@@ -43,7 +43,7 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=461
 
 17:05 - 18:00		Advanced Cluster Management Overview
 
-## Day5 (Monday 03.10.2023)
+## Day5 (Tuesday 03.10.2023)
 
 16:00 - 16:05		Welcome
 
