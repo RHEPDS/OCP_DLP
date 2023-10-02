@@ -25,7 +25,7 @@ Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=4610
 
 16:00 - 16:05		Welcome
 
-16:05 - 16:30		Day 2 Operations
+16:05 - 16:30		Day 2 Operations recording >>> https://drive.google.com/file/d/1cuFjTpf6mACxhPDXaCs5gnwaxxCgE-2S/view?usp=drive_link
 
 16:30 - 17:00		OpenShift Virtualisation
 
