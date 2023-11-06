@@ -3,7 +3,7 @@ link for today https://meet.google.com/ucp-gzjt-vsn
 
 Times in CEST (GMT+2)
 
-## Day 1 (4.09.2023)
+## Day 1 (6.11.2023)
 
 16:00 - 16:15		Welcome
 
@@ -13,7 +13,7 @@ Times in CEST (GMT+2)
 
 Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105986&utm_source=LOC plus Assement
 
-## Day 2 (Monday 25.09.2023)  - >>> ATTENTION Was 11.09.2023 <<<
+## Day 2 (Tuesday 14.11.2023)  - >>> ATTENTION Was 13.11.2023 <<<
 
 16:00 - 16:05		Welcome
 
@@ -21,7 +21,7 @@ Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=4610
 
 17:05 - 18:00		OCP Installation
 
-## Day 3 (Tuesday 26.09.2023)  - >>> Attention was 18.09.2023 <<<
+## Day 3 (20.11.2023)
 
 16:00 - 16:05		Welcome
 
@@ -35,7 +35,7 @@ Homework DO180 https://connect.redhat.com/en/training/course-catalog?m=c&id=4610
 
 Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=46105987&utm_source=LOC
 
-## Day 4 (Monday 02.10.2023)
+## Day 4 (Monday 27.11.2023)
 
 16:00 - 16:05		Welcome
 
@@ -43,7 +43,7 @@ Homework		DO280 https://connect.redhat.com/en/training/course-catalog?m=c&id=461
 
 17:05 - 18:00		Advanced Cluster Management Overview
 
-## Day5 (Tuesday 03.10.2023)
+## Day5 (Tuesday 04.12.2023)
 
 16:00 - 16:05		Welcome
 
