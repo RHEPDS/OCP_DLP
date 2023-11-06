@@ -1,5 +1,5 @@
 # Open Shift Distance Learning 2023
-link for today https://meet.google.com/ucp-gzjt-vsn
+link for today https://meet.google.com/cvy-hbja-dgq
 
 Times in CEST (GMT+2)
 
